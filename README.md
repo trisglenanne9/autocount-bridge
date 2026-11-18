@@ -9,7 +9,8 @@ session** on one client book, exposes it as a small JSON API on the server's own
 app for work over outbound HTTPS**. Nothing ever connects inward to the accounting server.
 
 It is half of **[InnVa](https://github.com/trisglenanne9/innva)**, an app that reads supplier invoices with AI, has
-people check them, and posts them into AutoCount. InnVa's page has the demo video.
+people check them, and posts them into AutoCount. InnVa's page has the demo video, and you can
+[click through the app](https://trisglenanne9.github.io/innva/) in your browser.
 
 > The source is private: it was built for a client. This page describes the design. Made by **Christine Lee**.
 
